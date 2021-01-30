@@ -1,5 +1,5 @@
 ##### Example code for "Programming Elastic MapReduce: Using AWS services to build an end-to-end application", by Christopher Phillips and Kevin Schmidt.<br>
-Copyright (C) 2013 Christopher Phillips and Kevin Schmidt, 978-1449363628
+Copyright (C) 2013 Christopher Phillips and Kevin J. Schmidt, 978-1449363628
 
 [http://oreilly.com/catalog/9781449363628](http://oreilly.com/catalog/9781449363628)
 
